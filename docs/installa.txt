@@ -1,0 +1,55 @@
+######################################################################
+# PP-News 1.5 NewsLetter x Post-nuke 0.7x
+# ===========================
+#
+# Copyright (c) 2000-2001 Massimiliano Tiraboschi (webmaster@postnuke.it)
+# http://www.postnuke.it
+# Version 1.5
+#
+# Mailing-list Multilanguage 
+#
+# 
+# Original author :
+# Copyright (c) 2000 Laurent Besses (webmaster@presencenet.net)
+# http://www.presencenet.net
+# Version Post-Nuke -={U.F.D}=- United French Devellopers http://www.net-assemblee.f2s.com
+#
+# 
+#
+# Script libero.
+# Grazie di lasciare il Copyright ©.
+#######################################################################
+# Adaptation to PostNuke Rogue  Falco171 || http://www.falco171.net   #
+ ######################################################################
+# Adaptation to xoops RC2 : Gilles Plume || muple@wanadoo.fr
+#######################################################################
+
+INSTALLAZIONE DELLO SCRIPT.
+---------------------------------
+- Uploadate i files nelle directory corrispondenti.
+- Directory e files Archives e files/cache/ | archives con permessi 777
+- CHMOD 666 file conf_mgs.php | conf_nl.php
+- Create il database con il file "xoops_pp_newsletter.sql" che si trova in /docs/sql
+- Andate in amministrazione e configurate come volete !
+- L'istallazione è conclusa . . .
+
+
+
+INFORMAZIONI SUPPLEMENTARI
+----------
+Potete rinominare il modulo come volete.
+
+
+Domande !
+-----------
+Per tutte dodmande contattateci
+Con il forum o il form di contatto.
+O per email.
+URL    -> http://www.postnuke.it
+E-Mail -> webmaster@postnuke.it
+
+URL    -> http://www.presencenet.net
+E-Mail -> webmaster@presencenet.net
+
+Max e Laurent
+

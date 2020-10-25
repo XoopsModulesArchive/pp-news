@@ -1,0 +1,20 @@
+// ----------------------------------------------------------------------
+// Changelog
+//
+// ----------------------------------------------------------------------
+* $prefix
+* modif sur traduction
+* modif sur header
+* modif sur repertoire archives
+* modif sur variable $ModName
+* add italian language
+* mod francais and english language
+* some bugs correct
+* add complete multilanguage feautures
+* add block in include multilanguage
+ver 0.7
+* modif administration panel 
+* correct some bugs
+* re-add Deucth language
+* modif francais and italian language 
+* correct some bugs with date 
